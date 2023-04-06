@@ -4,7 +4,7 @@
 My favorite terminal command is `cd [directory]`, which helps me change from the current working directory to the certain directory. However, I do not like `rm [file]` as it would remove the specified file.
 
 ### My CS Enlightment Mentor
-My favorite high school instructor who has inspired me to become a programmar and devote into computer science subject is Mr.Ansari [Mansoor Ansari] (https://revonect.com/contact/Mansoor%20Ansari/id/931294736405).
+My favorite high school instructor who has inspired me to become a programmar and devote into computer science subject is Mr.Ansari [Mansoor Ansari](https://revonect.com/contact/Mansoor%20Ansari/id/931294736405).
 
 ### The programming languages that I have learnt so far:
 - JAVA
